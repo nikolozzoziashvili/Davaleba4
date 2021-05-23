@@ -16,6 +16,6 @@ class FinishActivity : AppCompatActivity() {
 
 
 
-        Toast.makeText(this, "ბნ. ნიკოლოზ ნუ გამწირავ \uD83D\uDE25 სამსახურში ბევრს ვმუშაობ \uD83D\uDE2D", Toast.LENGTH_LONG).show()
+
     }
 }
